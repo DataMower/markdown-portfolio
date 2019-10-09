@@ -6,9 +6,9 @@ layout: default
 
 <br>
 
-{% include 02-image.md %}
+[Yellowstone][https://cdn.pixabay.com/photo/2017/03/03/17/52/buffalo-2114569_1280.jpg]
 
 <br>
 
-{% include 03-links.md %}
+[thefooture.com][http://www.thefooture.com]
 
